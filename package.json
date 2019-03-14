@@ -1,0 +1,23 @@
+{
+  "name": "static-start",
+  "version": "1.0.0",
+  "description": "Barebones static start for beginning projects.",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorradoRossi/static-start.git"
+  },
+  "keywords": [
+    "barebones",
+    "static",
+    "start"
+  ],
+  "author": "MotoRossi/CorradoRossi",
+  "license": "MIT",
+  "devDependencies": {
+    "spectre.css": "^0.5.8"
+  }
+}
